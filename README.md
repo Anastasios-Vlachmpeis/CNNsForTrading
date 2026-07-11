@@ -10,6 +10,10 @@ The following literature was used to identify different tecniques / methods :
 
 [DeepLOB: Deep Convolutional Neural Networks for Limit Order Books](https://www.oxford-man.ox.ac.uk/wp-content/uploads/2020/03/DeepLOB-Deep-Convolutional-Neural-Networks-for-Limit-Order-Books.pdf)
 
+[Forecasting Stock Prices from the Limit OrderBook using Convolutional Neural Networks](https://www.researchgate.net/publication/319220815_Forecasting_Stock_Prices_from_the_Limit_Order_Book_Using_Convolutional_Neural_Networks)
+
+[Financial Trading Model with Stock Bar Chart Image Time Series with Deep Convolutional Neural Networks](https://arxiv.org/pdf/1903.04610)
+
 Models to be used :
 
 VGG-16
